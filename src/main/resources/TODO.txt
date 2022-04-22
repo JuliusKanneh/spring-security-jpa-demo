@@ -1,0 +1,5 @@
+Next Features to add:
+
+* Signup Form
+* Remember Me
+* OAUTH (Login with 3rd party application {Facebook, Google, GitHub}
